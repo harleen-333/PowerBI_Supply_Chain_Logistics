@@ -1,0 +1,101 @@
+Product type,Price,Number of products sold,Revenue generated,Customer demographics,Stock levels,Order quantities,Shipping times,Shipping costs,Supplier name,Location,Production volumes,Manufacturing lead time,Manufacturing costs,Transportation modes,Costs
+haircare,69.81,802.00,8662.00,Non-binary,58.00,96.00,4.00,2.96,Supplier 3,Mumbai,215.00,29.00,46.28,Road,187.75
+skincare,14.84,736.00,7460.90,Female,53.00,37.00,2.00,9.72,Supplier 3,Mumbai,517.00,30.00,33.62,Road,503.07
+haircare,11.32,8.00,9577.75,Not Specified,1.00,88.00,2.00,8.05,Supplier 1,Mumbai,971.00,27.00,30.69,Air,141.92
+skincare,61.16,83.00,7766.84,Non-binary,23.00,59.00,6.00,1.73,Supplier 5,Kolkata,937.00,18.00,35.62,Rail,254.78
+skincare,4.81,871.00,2686.51,Non-binary,5.00,56.00,8.00,3.89,Supplier 1,Delhi,414.00,3.00,92.07,Air,923.44
+haircare,1.70,147.00,2828.35,Non-binary,90.00,66.00,3.00,4.44,Supplier 4,Bangalore,104.00,17.00,56.77,Road,235.46
+skincare,4.08,65.00,7823.48,Male,11.00,58.00,8.00,3.88,Supplier 3,Kolkata,314.00,24.00,1.09,Sea,134.37
+cosmetics,42.96,426.00,8496.10,Female,93.00,11.00,1.00,2.35,Supplier 4,Bangalore,564.00,1.00,99.47,Road,802.06
+cosmetics,68.72,150.00,7517.36,Female,5.00,15.00,7.00,3.40,Supplier 4,Mumbai,769.00,8.00,11.42,Sea,505.56
+skincare,64.02,980.00,4971.15,Not Specified,14.00,83.00,1.00,7.17,Supplier 2,Chennai,963.00,23.00,47.96,Rail,995.93
+skincare,15.71,996.00,2330.97,Non-binary,51.00,80.00,2.00,8.67,Supplier 5,Kolkata,830.00,5.00,96.53,Road,806.10
+skincare,90.64,960.00,6099.94,Female,46.00,60.00,1.00,4.52,Supplier 2,Kolkata,362.00,11.00,27.59,Air,126.72
+haircare,71.21,336.00,2873.74,Not Specified,100.00,85.00,4.00,1.33,Supplier 4,Kolkata,563.00,3.00,32.32,Road,402.97
+skincare,16.16,249.00,4052.74,Male,80.00,48.00,9.00,9.54,Supplier 5,Bangalore,173.00,10.00,97.83,Road,547.24
+skincare,99.17,562.00,8653.57,Non-binary,54.00,78.00,5.00,2.04,Supplier 1,Kolkata,558.00,14.00,5.79,Air,929.24
+skincare,36.99,469.00,5442.09,Non-binary,9.00,69.00,7.00,2.42,Supplier 1,Bangalore,580.00,7.00,97.12,Sea,127.86
+skincare,7.55,280.00,6453.80,Female,2.00,78.00,1.00,4.19,Supplier 1,Bangalore,399.00,21.00,77.11,Air,865.53
+cosmetics,81.46,126.00,2629.40,Female,45.00,85.00,9.00,3.59,Supplier 1,Chennai,453.00,16.00,47.68,Air,670.93
+haircare,36.44,620.00,9364.67,Not Specified,10.00,46.00,8.00,4.34,Supplier 2,Kolkata,374.00,17.00,27.11,Sea,593.48
+skincare,51.12,187.00,2553.50,Not Specified,48.00,94.00,3.00,4.74,Supplier 4,Chennai,694.00,16.00,82.37,Road,477.31
+skincare,96.34,320.00,8128.03,Not Specified,27.00,68.00,6.00,8.88,Supplier 1,Chennai,309.00,6.00,65.69,Air,493.87
+cosmetics,84.89,601.00,7087.05,Not Specified,69.00,7.00,6.00,6.04,Supplier 5,Chennai,791.00,4.00,61.74,Air,523.36
+haircare,27.68,884.00,2390.81,Not Specified,71.00,63.00,10.00,9.57,Supplier 4,Kolkata,780.00,28.00,50.12,Rail,205.57
+cosmetics,4.32,391.00,8858.37,Not Specified,84.00,29.00,7.00,2.92,Supplier 5,Kolkata,568.00,29.00,98.61,Rail,196.33
+haircare,4.16,209.00,9049.08,Male,4.00,2.00,8.00,9.74,Supplier 2,Bangalore,447.00,3.00,40.38,Air,758.72
+haircare,39.63,142.00,2174.78,Male,82.00,52.00,3.00,2.23,Supplier 4,Kolkata,934.00,23.00,78.28,Road,458.54
+haircare,97.45,353.00,3716.49,Male,59.00,48.00,4.00,6.51,Supplier 2,Bangalore,171.00,4.00,15.97,Rail,617.87
+cosmetics,92.56,352.00,2686.46,Not Specified,47.00,62.00,8.00,7.41,Supplier 5,Mumbai,291.00,4.00,10.53,Sea,762.46
+cosmetics,2.40,394.00,6117.32,Female,48.00,24.00,4.00,9.90,Supplier 1,Mumbai,171.00,7.00,59.43,Air,123.44
+cosmetics,63.45,253.00,8318.90,Female,45.00,67.00,7.00,8.10,Supplier 1,Kolkata,329.00,7.00,39.29,Road,764.94
+haircare,8.02,327.00,2766.34,Male,60.00,35.00,7.00,8.95,Supplier 4,Kolkata,806.00,30.00,51.63,Road,880.08
+skincare,50.85,168.00,9655.14,Male,6.00,44.00,4.00,2.68,Supplier 3,Chennai,461.00,8.00,60.25,Rail,609.38
+skincare,79.21,781.00,9571.55,Not Specified,89.00,64.00,4.00,6.60,Supplier 3,Kolkata,737.00,7.00,29.69,Road,761.17
+cosmetics,64.80,616.00,5150.00,Non-binary,4.00,95.00,9.00,4.86,Supplier 5,Chennai,251.00,23.00,23.85,Sea,371.26
+skincare,37.47,602.00,9061.71,Not Specified,1.00,21.00,7.00,1.02,Supplier 1,Chennai,452.00,10.00,10.75,Road,510.36
+cosmetics,84.96,449.00,6541.33,Female,42.00,85.00,8.00,5.29,Supplier 1,Delhi,367.00,2.00,58.00,Sea,553.42
+skincare,9.81,963.00,7573.40,Female,18.00,28.00,3.00,2.11,Supplier 2,Delhi,671.00,19.00,45.53,Air,403.81
+skincare,23.40,963.00,2438.34,Female,25.00,21.00,9.00,1.53,Supplier 3,Kolkata,867.00,15.00,34.34,Sea,183.93
+cosmetics,52.08,705.00,9692.32,Non-binary,69.00,88.00,5.00,9.24,Supplier 5,Mumbai,841.00,12.00,5.93,Air,339.67
+skincare,19.13,176.00,1912.47,Female,78.00,34.00,3.00,5.56,Supplier 2,Kolkata,791.00,6.00,9.01,Air,653.67
+skincare,80.54,933.00,5724.96,Female,90.00,39.00,8.00,7.23,Supplier 1,Kolkata,793.00,1.00,88.18,Road,529.81
+skincare,99.11,556.00,5521.21,Female,64.00,38.00,8.00,5.77,Supplier 4,Chennai,892.00,7.00,95.33,Sea,275.52
+skincare,46.53,155.00,1839.61,Female,22.00,57.00,4.00,7.53,Supplier 5,Bangalore,179.00,7.00,96.42,Road,635.66
+haircare,11.74,598.00,5737.43,Not Specified,36.00,85.00,9.00,3.69,Supplier 5,Mumbai,206.00,23.00,26.28,Air,716.04
+cosmetics,51.36,919.00,7152.29,Female,13.00,72.00,6.00,7.58,Supplier 2,Delhi,834.00,18.00,22.55,Rail,610.45
+haircare,33.78,24.00,5267.96,Male,93.00,52.00,6.00,5.22,Supplier 2,Chennai,794.00,25.00,66.31,Rail,495.31
+haircare,27.08,859.00,2556.77,Non-binary,92.00,6.00,8.00,4.07,Supplier 3,Chennai,870.00,23.00,77.32,Road,380.44
+skincare,95.71,910.00,7089.47,Male,4.00,51.00,9.00,8.98,Supplier 1,Kolkata,964.00,20.00,19.71,Rail,581.60
+haircare,76.04,29.00,7397.07,Non-binary,30.00,9.00,3.00,7.10,Supplier 2,Mumbai,109.00,18.00,23.13,Rail,768.65
+cosmetics,78.90,99.00,8001.61,Not Specified,97.00,9.00,6.00,2.51,Supplier 5,Delhi,177.00,28.00,14.15,Rail,336.89
+cosmetics,14.20,633.00,5910.89,Female,31.00,82.00,10.00,6.25,Supplier 2,Delhi,306.00,21.00,45.18,Rail,496.25
+haircare,26.70,154.00,9866.47,Male,100.00,52.00,1.00,4.78,Supplier 5,Bangalore,673.00,28.00,14.19,Road,694.98
+skincare,98.03,820.00,9435.76,Male,64.00,11.00,1.00,8.63,Supplier 1,Mumbai,727.00,27.00,9.17,Air,602.90
+skincare,30.34,242.00,8232.33,Male,96.00,54.00,3.00,1.01,Supplier 1,Delhi,631.00,17.00,83.34,Air,750.74
+haircare,31.15,622.00,6088.02,Non-binary,33.00,61.00,3.00,4.31,Supplier 1,Kolkata,497.00,29.00,30.19,Road,814.07
+haircare,79.86,701.00,2925.68,Male,97.00,11.00,5.00,5.01,Supplier 2,Delhi,918.00,5.00,30.32,Sea,323.01
+skincare,20.99,93.00,4767.02,Non-binary,25.00,83.00,5.00,1.77,Supplier 1,Mumbai,826.00,28.00,12.84,Air,832.21
+haircare,49.26,227.00,1605.87,Not Specified,5.00,51.00,1.00,9.16,Supplier 2,Delhi,588.00,25.00,67.78,Rail,482.19
+skincare,59.84,896.00,2021.15,Non-binary,10.00,44.00,7.00,4.94,Supplier 3,Delhi,396.00,7.00,65.05,Road,110.36
+cosmetics,63.83,484.00,1061.62,Non-binary,100.00,26.00,7.00,7.29,Supplier 1,Kolkata,176.00,4.00,1.90,Air,312.57
+skincare,17.03,380.00,8864.08,Female,41.00,72.00,8.00,4.38,Supplier 4,Mumbai,929.00,24.00,87.21,Rail,430.17
+haircare,52.03,117.00,6885.59,Not Specified,32.00,36.00,7.00,9.03,Supplier 4,Kolkata,480.00,12.00,78.70,Air,164.37
+cosmetics,72.80,270.00,3899.75,Not Specified,86.00,40.00,7.00,7.29,Supplier 2,Mumbai,751.00,14.00,21.05,Sea,320.85
+skincare,13.02,246.00,4256.95,Non-binary,54.00,10.00,4.00,2.46,Supplier 3,Bangalore,736.00,10.00,20.08,Sea,687.29
+skincare,89.63,134.00,8458.73,Female,73.00,75.00,6.00,4.59,Supplier 1,Delhi,328.00,6.00,8.69,Air,771.23
+skincare,33.70,457.00,8354.58,Male,57.00,54.00,8.00,6.58,Supplier 5,Kolkata,358.00,21.00,1.60,Rail,555.86
+skincare,26.03,704.00,8367.72,Female,13.00,19.00,8.00,2.22,Supplier 5,Kolkata,867.00,28.00,42.08,Road,393.84
+skincare,87.76,513.00,9473.80,Not Specified,12.00,71.00,9.00,9.15,Supplier 1,Mumbai,198.00,11.00,7.06,Sea,169.27
+haircare,37.93,163.00,3550.22,Non-binary,0.00,58.00,8.00,1.19,Supplier 2,Bangalore,375.00,18.00,97.11,Rail,299.71
+skincare,54.87,511.00,1752.38,Non-binary,95.00,27.00,3.00,9.71,Supplier 4,Kolkata,862.00,7.00,77.63,Air,207.66
+haircare,47.91,32.00,7014.89,Female,10.00,22.00,4.00,6.32,Supplier 1,Bangalore,775.00,16.00,11.44,Road,183.27
+cosmetics,6.38,637.00,8180.34,Female,76.00,26.00,6.00,9.23,Supplier 2,Bangalore,258.00,10.00,30.66,Road,405.17
+cosmetics,90.20,478.00,2633.12,Non-binary,57.00,77.00,9.00,6.60,Supplier 1,Bangalore,152.00,11.00,55.76,Rail,677.94
+cosmetics,83.85,375.00,7910.89,Male,17.00,66.00,5.00,1.51,Supplier 4,Chennai,444.00,4.00,46.87,Road,866.47
+haircare,3.17,904.00,5709.95,Female,41.00,1.00,5.00,5.24,Supplier 4,Delhi,919.00,9.00,80.58,Rail,341.55
+skincare,93.00,106.00,1889.07,Non-binary,16.00,56.00,10.00,2.47,Supplier 1,Chennai,759.00,11.00,48.06,Air,873.13
+haircare,69.11,241.00,5328.38,Male,38.00,22.00,10.00,7.05,Supplier 2,Bangalore,985.00,24.00,64.32,Rail,997.41
+haircare,57.45,359.00,2483.76,Not Specified,96.00,57.00,4.00,6.78,Supplier 1,Kolkata,334.00,5.00,42.95,Road,852.57
+haircare,6.31,946.00,1292.46,Not Specified,5.00,51.00,5.00,8.47,Supplier 5,Mumbai,858.00,21.00,71.13,Sea,323.59
+haircare,57.06,198.00,7888.72,Non-binary,31.00,20.00,1.00,6.50,Supplier 3,Bangalore,228.00,12.00,57.87,Air,351.50
+skincare,91.13,872.00,8651.67,Not Specified,39.00,41.00,2.00,2.83,Supplier 3,Chennai,202.00,5.00,76.96,Sea,787.78
+haircare,72.82,774.00,4384.41,Not Specified,48.00,8.00,5.00,4.07,Supplier 3,Delhi,698.00,1.00,19.79,Rail,276.78
+skincare,17.03,336.00,2943.38,Not Specified,42.00,72.00,1.00,4.71,Supplier 2,Mumbai,955.00,26.00,4.47,Road,589.98
+haircare,68.91,663.00,2411.75,Not Specified,65.00,7.00,8.00,4.95,Supplier 1,Bangalore,443.00,5.00,97.73,Road,682.97
+haircare,89.10,618.00,2048.29,Not Specified,73.00,80.00,10.00,8.38,Supplier 5,Chennai,589.00,22.00,33.81,Air,465.46
+cosmetics,76.96,25.00,8684.61,Female,15.00,66.00,2.00,8.25,Supplier 5,Chennai,211.00,2.00,69.93,Road,842.69
+skincare,20.00,223.00,1229.59,Not Specified,32.00,22.00,6.00,1.45,Supplier 1,Mumbai,569.00,18.00,74.61,Rail,264.25
+haircare,80.41,79.00,5133.85,Male,5.00,55.00,10.00,6.58,Supplier 3,Chennai,523.00,17.00,28.70,Sea,879.36
+cosmetics,75.27,737.00,9444.74,Male,60.00,85.00,7.00,3.80,Supplier 2,Mumbai,953.00,11.00,68.18,Sea,103.92
+cosmetics,97.76,134.00,5924.68,Not Specified,90.00,27.00,8.00,9.93,Supplier 1,Kolkata,370.00,11.00,46.60,Rail,517.50
+skincare,13.88,320.00,9592.63,Non-binary,66.00,96.00,7.00,7.67,Supplier 3,Bangalore,585.00,8.00,85.68,Rail,990.08
+cosmetics,62.11,916.00,1935.21,Male,98.00,85.00,7.00,7.47,Supplier 4,Delhi,207.00,28.00,39.77,Rail,996.78
+cosmetics,47.71,276.00,2100.13,Male,90.00,10.00,8.00,4.47,Supplier 2,Mumbai,671.00,29.00,62.61,Rail,230.09
+haircare,69.29,114.00,4531.40,Not Specified,63.00,66.00,1.00,7.01,Supplier 4,Chennai,824.00,20.00,35.63,Air,823.52
+cosmetics,3.04,987.00,7888.36,Not Specified,77.00,72.00,9.00,6.94,Supplier 2,Delhi,908.00,14.00,60.39,Rail,846.67
+haircare,77.90,672.00,7386.36,Not Specified,15.00,26.00,9.00,8.63,Supplier 4,Mumbai,450.00,26.00,58.89,Air,778.86
+cosmetics,24.42,324.00,7698.42,Non-binary,67.00,32.00,3.00,5.35,Supplier 3,Mumbai,648.00,28.00,17.80,Road,188.74
+haircare,3.53,62.00,4370.92,Male,46.00,4.00,9.00,7.90,Supplier 4,Mumbai,535.00,13.00,65.77,Road,540.13
+skincare,19.75,913.00,8525.95,Female,53.00,27.00,7.00,1.41,Supplier 5,Chennai,581.00,9.00,5.60,Rail,882.20
+haircare,68.52,627.00,9185.19,Not Specified,55.00,59.00,6.00,1.31,Supplier 2,Chennai,921.00,2.00,38.07,Rail,210.74
